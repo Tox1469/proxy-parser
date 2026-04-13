@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/proxy-parser/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/proxy-parser/actions)
+[![License](https://img.shields.io/github/license/Tox1469/proxy-parser?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/proxy-parser?style=flat-square)](https://github.com/Tox1469/proxy-parser/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/proxy-parser?style=flat-square)](https://github.com/Tox1469/proxy-parser/stargazers)
+
+---
+
 # proxy-parser
 
 Parser universal de strings de proxy. Aceita formatos URL (`http://user:pass@host:port`) e colon-separated (`host:port:user:pass`).
